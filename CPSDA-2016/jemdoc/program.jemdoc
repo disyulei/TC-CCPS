@@ -19,11 +19,14 @@
 
 ~~~
 {}{table}{noborder}
-     | *Cyber-Physical Digital Microfluidic Biochips: From Manipulating Droplets to Quantitative Gene-Expression Analysis* ||
-     | /[http://people.ee.duke.edu/~krish/ Prof. Krish Chakrabarty], FIEEE, FACM, Duke University/               ||
-     | ||  | ||
+     #| *Cyber-Physical Digital Microfluidic Biochips: From Manipulating Droplets to Quantitative Gene-Expression Analysis* ||
+     #| /[http://people.ee.duke.edu/~krish/ Prof. Krish Chakrabarty], FIEEE, FACM, Duke University/               ||
+     #| ||  | ||
      | *From Smart Buildings to Smart Microgrid: Emerging CPS at the Nexus of Energy Engineering & Social Behavior* ||
      | /[http://mesl.ucsd.edu/gupta/ Prof. Rajesh Gupta], FIEEE, University of California at San Diego/          ||
+     #Modern electrical energy systems operate at the intersection of technological advances in microelectronics, communications, and control. These enable extraordinary level of sensing of our physical spaces and inferencing of human comfort for energy use optimization with various co-generation and distributed storage resources in the new emerging 'microgrids'. Using the prototype of a microgrid at the campus of the University of California at San Diego, we present energy data that points to promising methods for operation of various types of buildings that leverage coordinated use of sensing, information processing, and building HVAC systems. We examine the emerging computer science problems arising from energy arbitration, alternative energy sourcing and capacity provisioning for computational resources through dynamic deferral of energy loads. 
+
+     #This talk is a reflection of how Computer Science research is rapidly evolving beyond computing machines and methods to directly address societal infrastructures affecting how we can live healthier lives and what it portends for future of academic research
      | ||  | ||
      | *Resource Management for Cyber-Physical Systems* ||
      | /[http://www3.nd.edu/~shu/ Prof. Sharon Hu], FIEEE, University of Notre Dame/ ||
