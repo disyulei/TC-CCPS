@@ -7,40 +7,61 @@
 # ==== header
 #include{header.jemdoc}
 
-== Confirmed Speakers
-
-=== Keynote Talk
-~~~
-{}{table}{noborder}
-[http://cesg.tamu.edu/faculty/p-r-kumar/ Prof. P.R. Kumar]~~~~~~~~~~~~  | Member of U.S. National Academy of Engineering, FIEEE, FACM, Texas A&M University
-~~~
-
-=== Visionary Talks
+== Technical Program
 
 ~~~
 {}{table}{noborder}
-     #| *Cyber-Physical Digital Microfluidic Biochips: From Manipulating Droplets to Quantitative Gene-Expression Analysis* ||
-     #| /[http://people.ee.duke.edu/~krish/ Prof. Krish Chakrabarty], FIEEE, FACM, Duke University/               ||
-     #| ||  | ||
-     | *From Smart Buildings to Smart Microgrid: Emerging CPS at the Nexus of Energy Engineering & Social Behavior* ||
-     | /[http://mesl.ucsd.edu/gupta/ Prof. Rajesh Gupta], FIEEE, University of California at San Diego/          ||
+8:40-9:00 ~~~~~~~~~~~~~~~ | *Opening remarks*   ||
+9:00-10:00    | *\<font color=red\>Keynote\<\/font\>:*  ||
+              | [http://cesg.tamu.edu/faculty/p-r-kumar/ Prof. P.R. Kumar]   ||
+              | /Member of U.S. National Academy of Engineering, FIEEE, FACM, Texas A&M University/ ||
+              |                    ||
+10:00-10:30   | \<font color=\"\#808080\"\>Break\<\/font\>              ||
+10:30-11:10   | *\<font color=red\>Invited Visionary\<\/font\>: Robust Systems: Complexity and Reliability Challenges*  ||
+              | [https://web.stanford.edu/~subh/ Prof. Subhasish Mitra] ||
+              | /FIEEE, FACM, Stanford University/ ||
+              |                    ||
+11:10-11:50   | *\<font color=red\>Invited Visionary\<\/font\>: From Smart Buildings to Smart Microgrid: Emerging CPS at the Nexus of Energy Engineering & Social Behavior* ||
+              | [http://mesl.ucsd.edu/gupta/ Prof. Rajesh Gupta] ||
+              | /FIEEE, University of California at San Diego/ ||
+              |                    ||
+11:50-13:30   | \<font color=\"\#808080\"\>Break\<\/font\>              ||
+13:30-14:10   | *\<font color=red\>Invited Visionary\<\/font\>: From resilient circuits to resilient systems* ||
+              | [http://www.ece.umn.edu/users/sachin/ Prof. Sachin Sapatenkar]  ||
+              | /FIEEE, University of Minnesota/ ||
+14:10-14:50   | *\<font color=red\>Invited Visionary\<\/font\>: Resource Management for Cyber-Physical Systems* ||
+              | [http://www3.nd.edu/~shu/ Prof. Sharon Hu]    ||
+              | /FIEEE, University of Notre Dame/ ||
+14:50-15:30   | *\<font color=red\>Invited Visionary\<\/font\>: DFX: on Deep Nanoscale Design for Manufacturability, Reliability, and Security* ||
+              | [http://users.ece.utexas.edu/~dpan/ Prof. David Z. Pan]  ||
+              | /FIEEE, University of Texas at Austin/ ||
+15:30-16:00   | \<font color=\"\#808080\"\>Break\<\/font\>              ||
+16:00-16:30   | *System and Architecture for Autonomous Driving* ||
+              | [https://users.ece.cmu.edu/~xinli/ Prof. Xin Li]        ||
+              | /Carnegie Mellon University/ ||
+16:30-17:00   | *Smart Home Cybersecurity: Threat and Defense in a Cyber-Physical System* ||
+              | [http://www.ece.mtu.edu/faculty/shiyan/ Prof. Shiyan Hu]     ||
+              | /Michigan Technological University/ ||
+17:00-18:00   | TBD  ||
+~~~
+
+     #| *From Smart Buildings to Smart Microgrid: Emerging CPS at the Nexus of Energy Engineering & Social Behavior* ||
+     #| /[http://mesl.ucsd.edu/gupta/ Prof. Rajesh Gupta], FIEEE, University of California at San Diego/          ||
      #Modern electrical energy systems operate at the intersection of technological advances in microelectronics, communications, and control. These enable extraordinary level of sensing of our physical spaces and inferencing of human comfort for energy use optimization with various co-generation and distributed storage resources in the new emerging 'microgrids'. Using the prototype of a microgrid at the campus of the University of California at San Diego, we present energy data that points to promising methods for operation of various types of buildings that leverage coordinated use of sensing, information processing, and building HVAC systems. We examine the emerging computer science problems arising from energy arbitration, alternative energy sourcing and capacity provisioning for computational resources through dynamic deferral of energy loads. 
 
      #This talk is a reflection of how Computer Science research is rapidly evolving beyond computing machines and methods to directly address societal infrastructures affecting how we can live healthier lives and what it portends for future of academic research
-     | ||  | ||
-     | *Resource Management for Cyber-Physical Systems* ||
-     | /[http://www3.nd.edu/~shu/ Prof. Sharon Hu], FIEEE, University of Notre Dame/ ||
-     | ||  | ||
-     | *Robust Systems: Complexity and Reliability Challenges* ||
-     | /[https://web.stanford.edu/~subh/ Prof. Subhasish Mitra], FIEEE, FACM, Stanford University/ ||
-     | ||  | ||
-     | *DFX: on Deep Nanoscale Design for Manufacturability, Reliability, and Security* ||
-     | /[http://users.ece.utexas.edu/~dpan/ Prof. David Z. Pan], FIEEE, University of Texas at Austin/ ||
-     | ||  | ||
-     | *From resilient circuits to resilient systems* ||
-     | /[http://www.ece.umn.edu/users/sachin/ Prof. Sachin Sapatenkar], FIEEE, University of Minnesota/ 
-~~~
-
+     #| ||  | ||
+     #| *Resource Management for Cyber-Physical Systems* ||
+     #| /[http://www3.nd.edu/~shu/ Prof. Sharon Hu], FIEEE, University of Notre Dame/ ||
+     #| ||  | ||
+     #| *Robust Systems: Complexity and Reliability Challenges* ||
+     #| /[https://web.stanford.edu/~subh/ Prof. Subhasish Mitra], FIEEE, FACM, Stanford University/ ||
+     #| ||  | ||
+     #| *DFX: on Deep Nanoscale Design for Manufacturability, Reliability, and Security* ||
+     #| /[http://users.ece.utexas.edu/~dpan/ Prof. David Z. Pan], FIEEE, University of Texas at Austin/ ||
+     #| ||  | ||
+     #| *From resilient circuits to resilient systems* ||
+     #| /[http://www.ece.umn.edu/users/sachin/ Prof. Sachin Sapatenkar], FIEEE, University of Minnesota/ 
 
 
 \n \n
