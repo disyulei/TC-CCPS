@@ -14,7 +14,8 @@
 {}{table}{noborder}
 13:30--13:50 ~~~~~~~~~~~~~~~~~~~~~~~~ | Opening remarks ||
 13:50--14:50 | *\<font color=red\>Keynote:\<\/font\> A Mathematical Formulation for Optimal Load Shifting of Electricity Demand*  ||
-             | [./doc/bio_yinyu_ye.pdf /Yinyu Ye, Stanford University, USA/] ||
+             | [./doc/bio_yinyu_ye.pdf Yinyu Ye] ||
+             | /Stanford University, USA/ ||
              | Abstract: \<font size=\"3\" color=\"\#808080\"\>
 We describe the background and an analytical framework for a mathematical optimization model for home
 energy management systems (HEMS) to manage electricity demand by efficiently shifting electricity loads of households from peak times to off-peak times.
@@ -30,7 +31,8 @@ Finally, we explain the model's benefits and its policy implications, the major 
 14:50--15:00 | Break           ||
              | ||
 15:00--15:30 | *\<font color=red\>Invited:\<\/font\> Challenges in Securing the IoT End-Point Devices*         ||
-             | [http://tehranipoor.ece.ufl.edu/ /Mark Tehranipoor, University of Florida, USA/] ||
+             | [http://tehranipoor.ece.ufl.edu/ Mark Tehranipoor] ||
+             | /University of Florida, USA/ ||
              | ||
              #| Abstract: \<font size=\"3\" color=\"\#808080\"\>
              #  TBD
@@ -42,24 +44,30 @@ Finally, we explain the model's benefits and its policy implications, the major 
 #               \<\/font\>      ||
              | ||
 15:30--15:50 | *Leveraging Carbon Nanotube Technologies in Developing Physically Unclonable Function for Cyber-Physical System Authentication* ||
-             | /Shiyan Hu, Michigan Technological University, USA/ ||
+             | Shiyan Hu ||
+             | /Michigan Technological University, USA/ ||
              | ||
 15:50--16:10 | *Overview of Cyber-Physical Temperature Estimation in Smart Buildings: From Modeling to Measurements* ||
-             | /Xin Li, Carnegie Mellon University, USA/ ||
+             | Xin Li ||
+             | /Carnegie Mellon University, USA/ ||
              | ||
 16:10--16:30 | *A Novel Algorithm for Secrecy Rate Analysis in Massive MIMO System with Target SINR Requirements*    ||
-             | /Danda Rawat, Georgia Southern University, USA/ ||
+             | Danda Rawat ||
+             | /Georgia Southern University, USA/ ||
              | ||
 16:30--16:50 | Break       ||
              | ||
 16:50--17:10 | *Emerging Challenges in Cyber-Physical Systems: A Balance of Performance, Correctness, and Security*  ||
-             | /Yier Jin, University of Central Florida, USA/ ||
+             | Yier Jin ||
+             | /University of Central Florida, USA/ ||
              | ||
 17:10--17:30 | *Security concerns for automotive communication and software architecture \<font color=red\>(Best Paper Award)\<\/font\>* ||
-             | /Huafeng Yu, TOYOTA InfoTechnology Center, USA/ ||
+             | Huafeng Yu  ||
+             | /TOYOTA InfoTechnology Center, USA/ ||
              | ||
 17:30--17:50 | *Spatiotemporal Risk-Averse Routing* ||
-             | /Fernando Kuipers, Delft University of Technology, Netherlands/
+             | Fernando Kuipers  ||
+             | /Delft University of Technology, Netherlands/
 
 \n \n \n \n
 
