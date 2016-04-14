@@ -88,6 +88,17 @@ Italy \n
 ~~~
 
 \<\/td\>
+\<td\>
+# ==== Prof. Y. Ye
+~~~
+{}{img_left}{img/committee/committee_yye.jpg}{}{120}{}{}
+=== [http://web.stanford.edu/~yyye/ Yinyu Ye]
+Stanford University \n
+USA \n
+==== [http://web.stanford.edu/~yyye/ Homepage]
+~~~
+
+\<\/td\>
 \<\/tr\>
 \<\/table\>
 #}}}
@@ -234,6 +245,21 @@ Belgium \n
 #\<\/tr\>
 #\<tr\>
 \<td\>
+# ==== Prof. R. Drechsler
+~~~
+{}{img_left}{img/committee/committee_rdrechsler.jpg}{}{120}{}{}
+=== [https://www-cps.hb.dfki.de/about/staff/rodr01 Rolf Drechsler]
+Cyber-Physical Systems department \n
+German Research Center for Artificial Intelligence (DFKI) \n
+Germany \n
+==== [https://www-cps.hb.dfki.de/about/staff/rodr01 Homepage]
+~~~
+
+
+\<\/td\>
+\<\/tr\>
+\<tr\>
+\<td\>
 # ==== Prof. M. Fujita
 ~~~
 {}{img_left}{img/committee/committee_mfujita.jpg}{}{120}{}{}
@@ -245,8 +271,8 @@ Japan \n
 
 
 \<\/td\>
-\<\/tr\>
-\<tr\>
+#\<\/tr\>
+#\<tr\>
 \<td\>
 # ==== Prof. Henkel
 ~~~
@@ -260,8 +286,8 @@ Germany \n
 
 
 \<\/td\>
-#\<\/tr\>
-#\<tr\>
+\<\/tr\>
+\<tr\>
 \<td\>
 # ==== Prof. T.Y. Ho
 ~~~
@@ -275,8 +301,8 @@ Taiwan \n
 
 
 \<\/td\>
-\<\/tr\>
-\<tr\>
+#\<\/tr\>
+#\<tr\>
 \<td\>
 # ==== Prof. Hu
 ~~~
@@ -290,8 +316,8 @@ USA \n
 
 
 \<\/td\>
-#\<\/tr\>
-#\<tr\>
+\<\/tr\>
+\<tr\>
 \<td\>
 # ==== Prof. Y. Jin
 ~~~
@@ -306,8 +332,8 @@ USA \n
 
 
 \<\/td\>
-\<\/tr\>
-\<tr\>
+#\<\/tr\>
+#\<tr\>
 \<td\>
 # ==== Prof. M. Kochenderfer
 ~~~
@@ -321,8 +347,8 @@ USA \n
 
 
 \<\/td\>
-#\<\/tr\>
-#\<tr\>
+\<\/tr\>
+\<tr\>
 \<td\>
 # ==== Prof. S. Kuindersma
 ~~~
@@ -336,8 +362,8 @@ USA \n
 
 
 \<\/td\>
-\<\/tr\>
-\<tr\>
+#\<\/tr\>
+#\<tr\>
 \<td\>
 # ==== Prof. R. Kumar
 ~~~
@@ -351,8 +377,8 @@ USA \n
 
 
 \<\/td\>
-#\<\/tr\>
-#\<tr\>
+\<\/tr\>
+\<tr\>
 \<td\>
 # ==== Prof. Kuo
 ~~~
@@ -367,8 +393,8 @@ Taiwan \n
 
 
 \<\/td\>
-\<\/tr\>
-\<tr\>
+#\<\/tr\>
+#\<tr\>
 \<td\>
 # ==== Prof. N. Li
 ~~~
@@ -382,8 +408,8 @@ USA \n
 
 
 \<\/td\>
-#\<\/tr\>
-#\<tr\>
+\<\/tr\>
+\<tr\>
 \<td\>
 # ==== Prof. X. Li
 ~~~
@@ -397,8 +423,8 @@ USA \n
 
 
 \<\/td\>
-\<\/tr\>
-\<tr\>
+#\<\/tr\>
+#\<tr\>
 \<td\>
 # ==== Prof. Low
 ~~~
@@ -411,8 +437,8 @@ USA \n
 
 
 \<\/td\>
-#\<\/tr\>
-#\<tr\>
+\<\/tr\>
+\<tr\>
 \<td\>
 # ==== Prof. Martinez
 ~~~
@@ -427,8 +453,8 @@ USA \n
 
 
 \<\/td\>
-\<\/tr\>
-\<tr\>
+#\<\/tr\>
+#\<tr\>
 \<td\>
 # ==== Prof. Mitra
 ~~~
@@ -442,8 +468,8 @@ USA \n
 
 
 \<\/td\>
-#\<\/tr\>
-#\<tr\>
+\<\/tr\>
+\<tr\>
 \<td\>
 # ==== Prof. Parashar
 ~~~
@@ -458,8 +484,8 @@ USA \n
 
 
 \<\/td\>
-\<\/tr\>
-\<tr\>
+#\<\/tr\>
+#\<tr\>
 \<td\>
 # ==== Prof. Parashar
 ~~~
@@ -473,8 +499,8 @@ USA \n
 
 
 \<\/td\>
-#\<\/tr\>
-#\<tr\>
+\<\/tr\>
+\<tr\>
 \<td\>
 # ==== Prof. Pop
 ~~~
@@ -488,8 +514,8 @@ Denmark \n
 
 
 \<\/td\>
-\<\/tr\>
-\<tr\>
+#\<\/tr\>
+#\<tr\>
 \<td\>
 # ==== Prof. V. Rodoplu
 ~~~
@@ -503,8 +529,8 @@ USA \n
 
 
 \<\/td\>
-#\<\/tr\>
-#\<tr\>
+\<\/tr\>
+\<tr\>
 \<td\>
 # ==== Prof. Rosenstiel
 ~~~
@@ -518,8 +544,8 @@ Germany \n
 
 
 \<\/td\>
-\<\/tr\>
-\<tr\>
+#\<\/tr\>
+#\<tr\>
 \<td\>
 # ==== Prof. Ranjan
 ~~~
@@ -535,8 +561,8 @@ United Kingdom \n
 
 
 \<\/td\>
-#\<\/tr\>
-#\<tr\>
+\<\/tr\>
+\<tr\>
 \<td\>
 # ==== Prof. S.A. Seshia
 ~~~
@@ -550,8 +576,8 @@ USA \n
 
 
 \<\/td\>
-\<\/tr\>
-\<tr\>
+#\<\/tr\>
+#\<tr\>
 \<td\>
 # ==== Prof. J. Teich
 ~~~
@@ -564,8 +590,8 @@ Germany \n
 
 
 \<\/td\>
-#\<\/tr\>
-#\<tr\>
+\<\/tr\>
+\<tr\>
 \<td\>
 # ==== J.H. Wang
 ~~~
@@ -579,8 +605,8 @@ USA \n
 
 
 \<\/td\>
-\<\/tr\>
-\<tr\>
+#\<\/tr\>
+#\<tr\>
 \<td\>
 # ==== J. Wang
 ~~~
@@ -595,8 +621,8 @@ Hong Kong \n
 
 
 \<\/td\>
-#\<\/tr\>
-#\<tr\>
+\<\/tr\>
+\<tr\>
 \<td\>
 # ==== Prof. D. Work
 ~~~
@@ -610,8 +636,8 @@ USA \n
 
 
 \<\/td\>
-\<\/tr\>
-\<tr\>
+#\<\/tr\>
+#\<tr\>
 \<td\>
 # ==== Prof. L. Xie
 ~~~
@@ -625,8 +651,8 @@ USA \n
 
 
 \<\/td\>
-#\<\/tr\>
-#\<tr\>
+\<\/tr\>
+\<tr\>
 \<td\>
 # ==== J. Xie
 ~~~
@@ -640,8 +666,8 @@ USA \n
 
 
 \<\/td\>
-\<\/tr\>
-\<tr\>
+#\<\/tr\>
+#\<tr\>
 \<td\>
 # ==== Prof. Y. Xie
 ~~~
@@ -656,8 +682,8 @@ USA \n
 
 
 \<\/td\>
-#\<\/tr\>
-#\<tr\>
+\<\/tr\>
+\<tr\>
 \<td\>
 # ==== Prof. B. Yu
 ~~~
@@ -672,8 +698,8 @@ Hong Kong \n
 
 
 \<\/td\>
-\<\/tr\>
-\<tr\>
+#\<\/tr\>
+#\<tr\>
 \<td\>
 # ==== Huafeng Yu
 ~~~
@@ -687,8 +713,8 @@ USA \n
 
 
 \<\/td\>
-#\<\/tr\>
-#\<tr\>
+\<\/tr\>
+\<tr\>
 \<td\>
 # ==== Prof. Q. Zhu
 ~~~
