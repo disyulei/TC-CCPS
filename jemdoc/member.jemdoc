@@ -7,43 +7,6 @@
 #include{header.jemdoc}
 
 
-= TC Chairs
-#{{{
-\<table id=noborder\>
-\<tr\>
-\<td\>
-# ==== Prof. S. Hu
-~~~
-{}{img_left}{img/committee/committee_syhu.jpg}{}{120}{}{}
-
-=== [http://web.stanford.edu/~shiyanhu/ Shiyan Hu]
-Department of Electrical and Computer Engineering \n
-Michigan Tech \& Stanford \n
-USA \n
-==== [http://web.stanford.edu/~shiyanhu/ Homepage]
-~~~
-
-\<\/td\>
-\<td\>
-# ==== Prof. A.Y. Zomaya
-~~~
-{}{img_left}{img/committee/committee_azomaya.jpg}{}{120}{}{}
-
-=== [http://sydney.edu.au/engineering/it/~zomaya/ Albert Y. Zomaya], *FIEEE*
-*Former Editor-in-Chief for [http://www.computer.org/web/tc IEEE Transactions on Computers]*  \n
-School of Information Technologies \n
-University of Sydney \n
-Sydney, NSW 2006 \n
-Australia \n
-==== [http://sydney.edu.au/engineering/it/~zomaya/ Homepage]
-~~~
-
-\<\/td\>
-\<\/tr\>
-\<\/table\>
-#}}}
-
-\n
 = Advisory Board
 #{{{
 \<table id=noborder\>
@@ -325,7 +288,7 @@ USA \n
 ~~~
 {}{img_left}{img/committee/committee_yjin.jpg}{}{120}{}{}
 === [http://www.eecs.ucf.edu/~jinyier/ Yier Jin]
-*CPS Security Subcommittee Chair* \n
+#*CPS Security Subcommittee Chair* \n
 Department of Electrical Engineering & Computer Science \n
 University of Central Florida \n
 USA \n
@@ -691,7 +654,7 @@ USA \n
 ~~~
 {}{img_left}{img/committee/committee_byu.jpg}{}{120}{}{}
 === [http://www.cse.cuhk.edu.hk/~byu/ Bei Yu]
-*Web Chair* \n
+#*Web Chair* \n
 Department of Computer Science and Engineering \n
 Chinese University of Hong Kong \n
 Hong Kong \n
@@ -707,7 +670,7 @@ Hong Kong \n
 ~~~
 {}{img_left}{img/committee/committee_hyu.jpg}{}{120}{}{}
 === [https://sites.google.com/site/huafengyu/ Huafeng Yu]
-*Automotive CPS Subcommittee Chair* \n
+#*Automotive CPS Subcommittee Chair* \n
 TOYOTA InfoTechnology Center (ITC) \n
 USA \n
 ==== [https://sites.google.com/site/huafengyu/ Homepage]
@@ -722,7 +685,7 @@ USA \n
 ~~~
 {}{img_left}{img/committee/committee_qzhu.jpg}{}{120}{}{}
 === [http://www.ee.ucr.edu/~qzhu/ Qi Zhu]
-*CPS Software Subcommittee Chair* \n
+#*CPS Software Subcommittee Chair* \n
 Department of Electrical and Computer Engineering \n
 University of California at Riverside \n
 USA \n
