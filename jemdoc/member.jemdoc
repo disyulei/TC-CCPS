@@ -6,6 +6,41 @@
 # ==== header
 #include{header.jemdoc}
 
+= TC Chairs
+#{{{
+\<table id=noborder\>
+\<tr\>
+\<td\>
+# ==== Prof. S. Hu
+~~~
+{}{img_left}{img/committee/committee_syhu.jpg}{}{120}{}{}
+
+=== [http://web.stanford.edu/~shiyanhu/ Shiyan Hu]
+Department of Electrical and Computer Engineering \n
+Michigan Tech \& Stanford \n
+USA \n
+==== [http://web.stanford.edu/~shiyanhu/ Homepage]
+~~~
+
+\<\/td\>
+\<td\>
+# ==== Prof. A.Y. Zomaya
+~~~
+{}{img_left}{img/committee/committee_azomaya.jpg}{}{120}{}{}
+
+=== [http://sydney.edu.au/engineering/it/~zomaya/ Albert Y. Zomaya], *FIEEE*
+*Former Editor-in-Chief for [http://www.computer.org/web/tc IEEE Transactions on Computers]*  \n
+School of Information Technologies \n
+University of Sydney \n
+#Sydney, NSW 2006 \n
+Australia \n
+==== [http://sydney.edu.au/engineering/it/~zomaya/ Homepage]
+~~~
+
+\<\/td\>
+\<\/tr\>
+\<\/table\>
+#}}}
 
 = Advisory Board
 #{{{
