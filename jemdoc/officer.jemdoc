@@ -7,6 +7,8 @@
 # ==== header
 #include{header.jemdoc}
 
+\n
+
 === TC Chairs
 - Shiyan Hu
 - Albert Y. Zomaya
@@ -18,9 +20,12 @@
 - Xin Li
 - Albert Y. Zomaya
 
+=== Secretary and Web Chair
+- Bei Yu
+
 === Awards Committee
 - Xin Li (Chair)
-- Members unlisted
+- \<font color=\"\#808080\"\>(members unlisted)\<\/font\>
 
 === Education Committee
 - Qi Zhu (Chair)
@@ -32,6 +37,4 @@
 === Newsletter Editor
 - Xin Li
 
-=== Secretary and Web Chair
-- Bei Yu
-
+\n
