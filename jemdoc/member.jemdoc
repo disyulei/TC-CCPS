@@ -271,9 +271,25 @@ Japan \n
 ~~~
 
 
+
 \<\/td\>
 #\<\/tr\>
 #\<tr\>
+\<td\>
+# ==== Prof. R. Gupta
+~~~
+{}{img_left}{img/committee/committee_rgupta.jpg}{}{120}{}{}
+=== [http://mesl.ucsd.edu/gupta/ Rajesh K. Gupta], *FIEEE*
+Department of Computer Science and Engineering \n
+University of California at San Diego \n
+USA \n
+==== [http://mesl.ucsd.edu/gupta/ Homepage]
+~~~
+
+
+\<\/td\>
+\<\/tr\>
+\<tr\>
 \<td\>
 # ==== Prof. Henkel
 ~~~
@@ -287,8 +303,8 @@ Germany \n
 
 
 \<\/td\>
-\<\/tr\>
-\<tr\>
+#\<\/tr\>
+#\<tr\>
 \<td\>
 # ==== Prof. T.Y. Ho
 ~~~
@@ -302,8 +318,8 @@ Taiwan \n
 
 
 \<\/td\>
-#\<\/tr\>
-#\<tr\>
+\<\/tr\>
+\<tr\>
 \<td\>
 # ==== Prof. Hu
 ~~~
@@ -317,8 +333,8 @@ USA \n
 
 
 \<\/td\>
-\<\/tr\>
-\<tr\>
+#\<\/tr\>
+#\<tr\>
 \<td\>
 # ==== Prof. Y. Jin
 ~~~
@@ -333,8 +349,8 @@ USA \n
 
 
 \<\/td\>
-#\<\/tr\>
-#\<tr\>
+\<\/tr\>
+\<tr\>
 \<td\>
 # ==== Prof. M. Kochenderfer
 ~~~
@@ -348,8 +364,8 @@ USA \n
 
 
 \<\/td\>
-\<\/tr\>
-\<tr\>
+#\<\/tr\>
+#\<tr\>
 \<td\>
 # ==== Prof. S. Kuindersma
 ~~~
@@ -363,8 +379,8 @@ USA \n
 
 
 \<\/td\>
-#\<\/tr\>
-#\<tr\>
+\<\/tr\>
+\<tr\>
 \<td\>
 # ==== Prof. R. Kumar
 ~~~
@@ -378,8 +394,8 @@ USA \n
 
 
 \<\/td\>
-\<\/tr\>
-\<tr\>
+#\<\/tr\>
+#\<tr\>
 \<td\>
 # ==== Prof. Kuo
 ~~~
@@ -394,8 +410,8 @@ Taiwan \n
 
 
 \<\/td\>
-#\<\/tr\>
-#\<tr\>
+\<\/tr\>
+\<tr\>
 \<td\>
 # ==== Prof. N. Li
 ~~~
@@ -409,8 +425,8 @@ USA \n
 
 
 \<\/td\>
-\<\/tr\>
-\<tr\>
+#\<\/tr\>
+#\<tr\>
 \<td\>
 # ==== Prof. X. Li
 ~~~
@@ -424,8 +440,8 @@ USA \n
 
 
 \<\/td\>
-#\<\/tr\>
-#\<tr\>
+\<\/tr\>
+\<tr\>
 \<td\>
 # ==== Prof. Low
 ~~~
@@ -438,8 +454,8 @@ USA \n
 
 
 \<\/td\>
-\<\/tr\>
-\<tr\>
+#\<\/tr\>
+#\<tr\>
 \<td\>
 # ==== Prof. Martinez
 ~~~
@@ -454,8 +470,8 @@ USA \n
 
 
 \<\/td\>
-#\<\/tr\>
-#\<tr\>
+\<\/tr\>
+\<tr\>
 \<td\>
 # ==== Prof. Mitra
 ~~~
@@ -469,8 +485,8 @@ USA \n
 
 
 \<\/td\>
-\<\/tr\>
-\<tr\>
+#\<\/tr\>
+#\<tr\>
 \<td\>
 # ==== Prof. Parashar
 ~~~
@@ -485,8 +501,8 @@ USA \n
 
 
 \<\/td\>
-#\<\/tr\>
-#\<tr\>
+\<\/tr\>
+\<tr\>
 \<td\>
 # ==== Prof. Parashar
 ~~~
@@ -500,8 +516,8 @@ USA \n
 
 
 \<\/td\>
-\<\/tr\>
-\<tr\>
+#\<\/tr\>
+#\<tr\>
 \<td\>
 # ==== Prof. Pop
 ~~~
@@ -515,38 +531,8 @@ Denmark \n
 
 
 \<\/td\>
-#\<\/tr\>
-#\<tr\>
-\<td\>
-# ==== Prof. V. Rodoplu
-~~~
-{}{img_left}{img/committee/committee_vrodoplu.jpg}{}{120}{}{}
-=== [http://www.ece.ucsb.edu/rodoplu/ Volkan Rodoplu]
-Department of Electrical and Computer Engineering \n
-University of California at Santa Barbara \n
-USA \n
-==== [http://www.ece.ucsb.edu/rodoplu/ Homepage]
-~~~
-
-
-\<\/td\>
 \<\/tr\>
 \<tr\>
-\<td\>
-# ==== Prof. Rosenstiel
-~~~
-{}{img_left}{img/committee/committee_wrosenstiel.jpg}{}{120}{}{}
-=== [http://www.ti.uni-tuebingen.de/Wolfgang-Rosenstiel.191.0.html Wolfgang Rosenstiel]
-Lehrstuhl Technische Informatik \n
-University of Tuebingen \n
-Germany \n
-==== [http://www.ti.uni-tuebingen.de/Wolfgang-Rosenstiel.191.0.html Homepage]
-~~~
-
-
-\<\/td\>
-#\<\/tr\>
-#\<tr\>
 \<td\>
 # ==== Prof. Ranjan
 ~~~
@@ -555,15 +541,13 @@ Germany \n
 School of Computing Science \n
 Newcastle University \n
 United Kingdom \n
-#Commonwealth Scientific and Industrial Research Organisation \n
-#Australia \n
 ==== [http://rajivranjan.net/about/ Homepage]
 ~~~
 
 
 \<\/td\>
-\<\/tr\>
-\<tr\>
+#\<\/tr\>
+#\<tr\>
 \<td\>
 # ==== Prof. S.A. Seshia
 ~~~
@@ -573,6 +557,21 @@ Department of Electrical Engineering and Computer Sciences \n
 University of California, Berkeley \n
 USA \n
 ==== [http://www.eecs.berkeley.edu/~sseshia/ Homepage]
+~~~
+
+
+\<\/td\>
+\<\/tr\>
+\<tr\>
+\<td\>
+# ==== Prof. S. Tan
+~~~
+{}{img_left}{img/committee/committee_stan.jpg}{}{120}{}{}
+=== [http://www.ece.ucr.edu/~stan/ Sheldon Tan]
+Department of Electrical and Computer Engineering \n
+University of California at Riverside \n
+USA \n
+==== [http://www.ece.ucr.edu/~stan/ Homepage]
 ~~~
 
 
