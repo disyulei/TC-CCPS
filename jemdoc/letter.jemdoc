@@ -25,6 +25,21 @@ USA \n
 ~~~
 
 
+
+== Executive Editor
+
+~~~
+{}{img_left}{img/committee/committee_yshi.jpg}{}{120}{}{}
+
+=== [https://engineering.nd.edu/profiles/yshi Yiyu Shi]
+Department of Computer Science and Engineering \n
+University of Notre Dame \n
+USA \n
+==== Email: [yshi4@nd.edu yshi4@nd.edu]
+~~~
+
+
+
 == Associate Editors
 
 \<table id=noborder\>
@@ -65,22 +80,6 @@ United Kingdom \n
 \<\/tr\>
 \<tr\>
 \<td\>
-# ==== Y. Shi
-~~~
-{}{img_left}{img/committee/committee_yshi.jpg}{}{120}{}{}
-
-=== [https://engineering.nd.edu/profiles/yshi Yiyu Shi]
-Department of Computer Science and Engineering \n
-University of Notre Dame \n
-USA \n
-==== Email: [yshi4@nd.edu yshi4@nd.edu]
-~~~
-
-
-\<\/td\>
-#\<\/tr\>
-#\<tr\>
-\<td\>
 # ==== B. Yu
 ~~~
 {}{img_left}{img/committee/committee_byu.jpg}{}{120}{}{}
@@ -94,8 +93,8 @@ Hong Kong \n
 
 
 \<\/td\>
-\<\/tr\>
-\<tr\>
+#\<\/tr\>
+#\<tr\>
 \<td\>
 # ==== Q. Zhu
 ~~~
@@ -109,11 +108,13 @@ USA \n
 ==== Email: [qzhu@ece.ucr.edu qzhu@ece.ucr.edu]
 ~~~
 
+#\<\/td\>
+#\<\/tr\>
+#\<tr\>
+#\<td\>
+
 \<\/td\>
 \<\/tr\>
-\<tr\>
-\<td\>
-
-
+\<\/table\>
 
 
