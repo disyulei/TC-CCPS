@@ -1,0 +1,57 @@
+# jemdoc: addcss{css/jemdoc.css}
+# jemdoc: addcss{css/myMiddle.css}
+# jemdoc: title{Shiyan Hu@MTU}
+
+
+~~~
+{}{img_left}{img/syhu/syhu.jpg}{}{260}{}{}
+= Shiyan Hu, Ph.D.
+
+Associate Professor    \n
+[http://www.mtu.edu/ece/ Department of Electrical and Computer Engineering] \n
+EERC 518 \n
+[http://www.mtu.edu/ Michigan Technological University] \n
+1400 Townsend Drive, Houghton, MI, 49931 \n
+
+*Phone:* 906-487-2941 \n
+*Email:* shiyan@mtu.edu, shiyan.hu.us@ieee.org \n
+~~~
+
+== Biography
+
+Professor Shiyan Hu received his Ph.D. in Computer Engineering from Texas A&M University in 2008.
+He is an Associate Professor at Michigan Tech. where he is Director of [http://icc.mtu.edu/cps/ Center for Cyber-Physical Systems] and Associate Director of Institute of Computer and Cybersystems.
+He has been a Visiting Professor at IBM Research (Austin) in 2010, and a Visiting Associate Professor at Stanford University from 2015 to 2016.
+His research interests include Cyber-Physical Systems, Cybersecurity, Computer-Aided Design of VLSI Circuits, and Embedded Systems,
+where he has published more than 100 refereed papers.
+ 
+Prof. Hu is an ACM Distinguished Speaker, an IEEE Computer Society Distinguished Visitor,
+an invited participant for U.S. National Academy of Engineering Frontiers of Engineering Symposium, a recipient of National Science Foundation (NSF) CAREER Award,
+a recipient of ACM SIGDA Richard Newton DAC Scholarship (as the faculty advisor), and a recipient of JSPS Faculty Invitation Fellowship.
+His research was featured in the Front Cover of IEEE Transactions on Nanobioscience in March 2014 and highlighted in various public media such as IEEE Spectrum and Communications of ACM.
+His ultra fast slew buffering technique has been widely deployed in industry for designing over 50 microprocessor and ASIC chips such as IBM flagship chips POWER 7 and 8.
+  
+Prof. Hu is the Chair for [http://www.ieee-cps.org/ IEEE Technical Committee on Cyber-Physical Systems].
+He is an Associate Editor for IEEE Transactions on Computer-Aided Design, IEEE Transactions on Industrial Informatics, and IEEE Transactions on Circuits and Systems.
+He is also a Guest Editor for 7 IEEE/ACM Transactions such as IEEE Transactions on Computers and IEEE Transactions on Computer-Aided Design.
+He has served as conference chairs, track chairs and TPC members for more than 70 times, which include the TPC Subcommittee Chair for DAC and ICCAD.
+He is a Fellow of IET and a Senior Member of IEEE.
+
+
+=== Research Topics
+- Cyber-Physical Systems (CPS)
+-- Smart Home and Smart Energy Cyber-Physical Systems
+-- Cyber-Physical System Security
+- Computer-Aided Design (CAD) for VLSI/Nano/Bio Circuits
+-- CAD for Emerging Technologies such as Carbon Nanotube Circuits and Microfluidic Biochips
+-- Physical Design and Interconnect Optimizations
+=== [http://www.ece.mtu.edu/faculty/shiyan/Publications.htm Publications]
+=== [http://www.ece.mtu.edu/faculty/shiyan/RepPublications.htm Representative Publications]
+=== [http://www.ece.mtu.edu/faculty/shiyan/ProfessionalServices.htm Professional Services]
+=== [http://www.ece.mtu.edu/faculty/shiyan/Teaching.htm Teaching]
+=== [http://www.ece.mtu.edu/faculty/shiyan/MediaCoverage.htm Media Coverage]
+=== [http://www.ece.mtu.edu/faculty/shiyan/ResearchGroup.htm Research Group]
+=== [https://sites.google.com/a/mtu.edu/mtucntcad/ CNT Research Website]
+
+
+\n \n

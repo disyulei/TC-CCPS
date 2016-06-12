@@ -7,4 +7,5 @@ all:
 	./jemdoc.py  -o ../ letter.jemdoc
 	#cp -rf eqs  ../
 	./jemdoc.py  -o ../ TBD-CPS.jemdoc
+	./jemdoc.py  -o ../ syhu.jemdoc
 
