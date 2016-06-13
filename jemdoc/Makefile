@@ -8,4 +8,5 @@ all:
 	#cp -rf eqs  ../
 	./jemdoc.py  -o ../ TBD-CPS.jemdoc
 	./jemdoc.py  -o ../ shiyanhu.jemdoc
+	./jemdoc.py  -o ../ journal.jemdoc
 
