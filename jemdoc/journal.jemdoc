@@ -9,9 +9,15 @@
 = Recommended Journals
 
 ~~
-{}{img_left}{img/journal/tcps.jpg}{}{160}{}{}
-= ACM Transactions on Cyber-Physical Systems (TCPS)
+{}{img_left}{img/journal/tcps.jpg}{}{120}{}{}
+=== [http://tcps.acm.org/ ACM Transactions on Cyber-Physical Systems (TCPS)]
 
 Cyber-Physical Systems (CPS) has emerged as a unifying name for systems where the cyber parts, i.e., the computing and communication parts, and the physical parts are tightly integrated, both at the design time and during operation. Such systems use computations and communication deeply embedded in and interacting with physical processes to add new capabilities to physical systems. These cyber-physical systems range from miniscule (pace makers) to large-scale (a national power-grid). There is an emerging consensus that new methodologies and tools need to be developed to support cyber-physical systems.
 ~~
+
+
+~~~
+{}{img_left}{img/journal/ietcps.jpg}{}{120}{}{}
+=== IET Cyber-Physical Systems: Theory & Applications
+~~~
 
