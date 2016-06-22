@@ -4,7 +4,59 @@
 
 ~~~
 {}{img_left}{img/BOOK_CPSBD/springer.jpg}{}{160}{}{}
+= Leveraging Big Data Techniques for Cyber-Physical Systems
 ~~~
 
-= Leveraging Big Data Techniques for Cyber-Physical Systems
+#=== \<font color=red\>Call For Book Chapters\<\/font\>
+=== Call For Book Chapters
+
+Cyber-physical system (CPS) addresses the close interactions and feedback controls between cyber components and physical components, where cyber components refer to the sensing and communication systems, while the physical components comprise of a wide range of systems in practice. CPS is expected to play a major role in the development of next-generation smart energy systems and data centers. Innovative computational methodologies such as green and energy efficient cyber-physical system design have become critical to enable the sustainable development of such systems.  These technologies can be used to tackle various sustainability challenges, such as the reduction of energy induced from the large scale data center computing infrastructures, the improvement of computational efficiency in smart energy systems and connected vehicle systems, and the exploration of the renewable energy resources to mitigate classical energy usages. 
+
+This book highlights some original research and survey articles dedicated to big data techniques for Cyber-physical system (CPS), which addresses the close interactions and feedback controls between cyber components and physical components. This book first discusses some fundamental “big data” problems due to the fast increase in CPS system complexities, such as mathematical big data optimization, big data analytics, and some game theory. The second part of this book guides the management and control of the operations of CPS, which involve sensing, processing and storage of massive amount of data. The third part is dedicated on the design challenges of CPS in multiple aspects such as performance, energy efficiency, security, privacy, reliability, sustainability, fault tolerance, scalability and flexibility. Furthermore, this book will present very recent advances and trends in the state-of-the-art CPS research.
+
+Topics of Interests (but not limited to): 
+- State-of-the-art Overview of Cyber-Physical Systems (CPS)
+- Cyber-Physical Smart Home, Building, and Community
+- Mathematical Big Data Optimization Frameworks for CPS
+- Big Data Techniques in Smart Energy Systems
+- Big Data Analytics for Instrumentation and Measurement Reliability
+- Game Theory in Cyber-Physical System Design and Control
+- Social Optimization in CPS
+- Uncertainty Analysis and Optimization in Cyber-Physical Systems
+- Pricing Making for Cyber-Physical Smart Energy Systems 
+- Cybersecurity and Cyberattack Detection in CPS
+- Cyber-Physical Data Center and Cloud Computing
+- Automotive Cyber-Physical Systems
+- Big Data Analytics for Electric Vehicles Operations
+- Embedded System Design for Cyber-Physical Systems
+- Application and Use Cases
+
+
+=== Schedule & Deadlines
+~~~
+{}{table}{noborder}
+July 1st 2016:     |  Intention to submit a book chapter ||
+November 1st 2016: |  Full chapter submission  ||
+January 1st 2017:  |  Review comments ||
+Match 1st 2017:    |  Submission of the revised chapter ||
+April 1st 2017:    |  Final acceptance notification ||
+May 1st 2017:      |  Final chapter due
+~~~
+
+=== Manuscript Preparation
+All chapters (and chapter proposal) must be submitted electronically via EasyChair using this link.
+The submissions must be in pdf format.
+For further information, please contact the editors on: [mailto:shiyan@mtu.edu shiyan@mtu.edu].
+
+
+
+=== Editors
+~~~
+{}{table}{noborder}
+Shiyan Hu | Michgan Technological University ||
+Bei Yu    | The Chinese University of Hong Kong ||
+Yinyu Ye  | Stanford University 
+~~~
+
+
 
