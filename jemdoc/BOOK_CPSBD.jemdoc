@@ -1,0 +1,10 @@
+# jemdoc: addcss{css/jemdoc.css}
+# jemdoc: addcss{css/myMiddle.css}
+# jemdoc: title{Springer Book}
+
+~~~
+{}{img_left}{img/BOOK_CPSBD/springer.jpg}{}{160}{}{}
+~~~
+
+= Leveraging Big Data Techniques for Cyber-Physical Systems
+
