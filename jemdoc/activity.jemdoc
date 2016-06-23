@@ -10,6 +10,14 @@
 = Activities
 
 ~~~
+{}{img_left}{img/activities/2017-book-cpsbd.jpg}{}{140}{}{http://www.ieee-cps.org/BOOK-CPSBD.html}
+{{<img src="img/icon-new.gif" width=34>}}
+Springer Book
+``[BOOK-CPSBD.html Leveraging Big Data Techniques for Cyber-Physical Systems]''
+~~~
+\n
+
+~~~
 {}{img_left}{img/activities/2016-tbd-icon.jpg}{}{140}{}{http://www.ieee-cps.org/TBD-CPS.html}
 {{<img src="img/icon-new.gif" width=34>}}
 [http://www.computer.org/web/tbd IEEE Transactions on Big Data]
@@ -19,14 +27,12 @@ special issue on [http://www.ieee-cps.org/TBD-CPS.html Big Data for Cyber-Physic
 
 ~~~
 {}{img_left}{img/activities/2016-cpsda-icon.jpg}{}{140}{}{http://www.ieee-cps.org/CPSDA-2016/}
-{{<img src="img/icon-new.gif" width=34>}}
 [https://dac.com/ DAC-2016] Workshop on [http://www.ieee-cps.org/CPSDA-2016/ Design Automation for Cyber-Physical Systems (CPSDA-2016)]
 ~~~
 \n
 
 ~~~
 {}{img_left}{img/activities/2016-tcps-icon.jpg}{}{140}{}{http://tcps.acm.org/special_issue_smart.cfm}
-{{<img src="img/icon-new.gif" width=34>}}
 [http://tcps.acm.org/ ACM Transactions on Cyber-Physical Systems (TCPS)] special issue on
 [http://tcps.acm.org/special_issue_smart.cfm Smart Homes, Buildings, and Infrastructure]
 ~~~
@@ -34,14 +40,12 @@ special issue on [http://www.ieee-cps.org/TBD-CPS.html Big Data for Cyber-Physic
 
 ~~~
 {}{img_left}{img/activities/2016-cpss-icon.jpg}{}{140}{}{http://www.ieee-cps.org/CPSS-2016/}
-{{<img src="img/icon-new.gif" width=34>}}
 [http://infocom2016.ieee-infocom.org/ INFOCOM-2016] Workshop on [http://www.ieee-cps.org/CPSS-2016/ Cross-Layer Cyber-Physical Systems (CPSS-2016)]
 ~~~
 \n
 
 ~~~
 {}{img_left}{img/activities/2015-jvlsi-icon.jpg}{}{140}{}{http://www.journals.elsevier.com/integration-the-vlsi-journal/call-for-papers/special-issue-on-hardware-assisted-techniques-for-iot/}
-{{<img src="img/icon-new.gif" width=34>}}
 [http://www.journals.elsevier.com/integration-the-vlsi-journal/ Integration, The VLSI Journal,] special session on
 [http://www.journals.elsevier.com/integration-the-vlsi-journal/call-for-papers/special-issue-on-hardware-assisted-techniques-for-iot/ Hardware Assisted Techniques for IoT and Big Data Applications]
 ~~~

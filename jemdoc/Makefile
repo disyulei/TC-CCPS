@@ -9,5 +9,5 @@ all:
 	./jemdoc.py  -o ../ shiyanhu.jemdoc
 	# special sessions
 	./jemdoc.py  -o ../ TBD-CPS.jemdoc
-	./jemdoc.py  -o ../ BOOK_CPSBD.jemdoc
+	./jemdoc.py  -o ../ BOOK-CPSBD.jemdoc
 

@@ -9,7 +9,7 @@
 
 
 #=== \<font color=red\>Call For Book Chapters\<\/font\>
-=== Call For Book Chapters
+=== Call For Book Chapters ([./doc/BOOK_CPSBD/CFP_v1.pdf pdf])
 
 Cyber-physical system (CPS) addresses the close interactions and feedback controls between cyber components and physical components, where cyber components refer to the sensing and communication systems, while the physical components comprise of a wide range of systems in practice. Due to the fast increase in system complexities, the operations of CPS involve sensing, processing and storage of massive amount of data. This nature of “big data” also imposes fundamental challenges on the management and control of the operations of CPS, which involve sensing, processing and storage of massive amount of data. In addition, there is a need to overcome some hardware and software design challenges of CPS in multiple aspects such as performance, energy efficiency, security, privacy, reliability, sustainability, fault tolerance, scalability and flexibility.
 
@@ -62,7 +62,11 @@ Bei Yu    | The Chinese University of Hong Kong ||
 Yinyu Ye  | Stanford University 
 ~~~
 
+\n \n
 
+== Support By
 
-\n \n \n
+IEEE Technical Committee on CPS ([http://www.ieee-cps.org www.ieee-cps.org]).
+
+\n \n
 
