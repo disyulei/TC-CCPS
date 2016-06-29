@@ -10,10 +10,10 @@
 = Activities
 
 ~~~
-{}{img_left}{img/activities/2017-book-cpsbd.jpg}{}{140}{}{http://www.ieee-cps.org/BOOK-CPSBD.html}
+{}{img_left}{img/activities/2017-book-cpsbd.jpg}{}{140}{}{./BOOK-CPSBD.html}
 {{<img src="img/icon-new.gif" width=34>}}
 Springer Book
-``[BOOK-CPSBD.html Leveraging Big Data Techniques for Cyber-Physical Systems]''
+``[./BOOK-CPSBD.html Leveraging Big Data Techniques for Cyber-Physical Systems]''
 ~~~
 \n
 
