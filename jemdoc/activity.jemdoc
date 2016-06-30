@@ -18,6 +18,14 @@ Springer Book
 \n
 
 ~~~
+{}{img_left}{img/activities/2016-tsusc-icon.jpg}{}{140}{}{./TSUSC-CPS.html}
+{{<img src="img/icon-new.gif" width=34>}}
+[http://www.computer.org/web/tsusc IEEE Transactions on Sustainable Computing (TSUSC)]
+special issue on [./TSUSC-CPS.html Sustainable Cyber-Physical Systems]
+~~~
+\n
+
+~~~
 {}{img_left}{img/activities/2016-tbd-icon.jpg}{}{140}{}{http://www.ieee-cps.org/TBD-CPS.html}
 {{<img src="img/icon-new.gif" width=34>}}
 [http://www.computer.org/web/tbd IEEE Transactions on Big Data]

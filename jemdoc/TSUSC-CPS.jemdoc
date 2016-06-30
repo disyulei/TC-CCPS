@@ -1,0 +1,64 @@
+# jemdoc: addcss{css/jemdoc.css}
+# jemdoc: addcss{doc/TSUSC-CPS/myMiddle.css}
+# jemdoc: title{TSUSC Sustainable Cyber-Physical Systems}
+
+~~~
+{}{img_left}{img/TSUSC-CPS/bar_tsusc.jpg}{TSUSC-CPS}{1080}{}{}
+~~~
+
+= Sustainable Cyber-Physical Systems
+
+Cyber-physical system (CPS) addresses the close interactions and feedback controls between cyber components and physical components, where cyber components refer to the sensing and communication systems, while the physical components comprise of a wide range of systems in practice. CPS is expected to play a major role in the development of next-generation smart energy systems and data centers. Innovative computational methodologies such as green and energy efficient cyber-physical system design have become critical to enable the sustainable development of such systems. These technologies can be used to tackle various sustainability challenges, such as the reduction of energy induced from the large scale data center computing infrastructures, the improvement of computational efficiency in smart energy systems and connected vehicle systems, and the exploration of the renewable energy resources to mitigate classical energy usages. This special issue will present the state-of-the-art research results on the topic of sustainable computing for CPS, and stimulate researchers to participate in the related interdisciplinary research.
+
+The topics of interests for this special issue include, but are not limited to:
+
+- Algorithms and optimizations for sustainable CPSs
+- Architectural frameworks for sustainable CPSs
+- Resource managements in sustainable CPSs
+- Computational methodologies for cyberphysical smart energy systems
+- Sustainable CPSs with renewable energy integration
+- Energy modeling and optimizations for sustainable energy systems and data centers
+- Reliability in sustainable CPSs
+- Security and privacy in sustainable CPSs
+- Emerging computational technologies and platforms for sustainable CPSs
+
+== Submission Instructions
+
+This special issue solicits original works not under consideration for publication in any other journal or conference.
+Authors need to prepare the manuscripts according to the guidelines of the [https://www.computer.org/web/tsusc IEEE Transactions on Sustainable Computing (TSUSC)] found at
+[http://www.computer.org/web/tsusc/author www.computer.org\/web\/tsusc\/author].
+Authors should submit their papers through the online manuscript portal system at
+[http://mc.manuscriptcentral.com/tsusc-cs mc.manuscriptcentral.com\/tsusc-cs]
+and select this special issue. For more information, please contact the Guest Editor Shiyan Hu at [mailto:shiyan@mtu.edu shiyan@mtu.edu].
+
+
+== Important Dates
+
+~~~
+{}{table}{noborder}
+Deadline for paper submissions:   |  October 15, 2016  ||
+First round review decisions:     |  January 15, 2017  ||
+Deadline for revised manuscripts: |  March 15, 2017    ||
+Second round review decisions:    |  April 15, 2017    ||
+Deadline for revised manuscripts: |  May 15, 2017      ||
+Notification of final decisions:  |  June 15, 2017     ||
+Publication materials due:        |  July 15, 2017
+~~~
+
+== Guest Editors
+~~~
+{}{table}{noborder}
+Prof. Shiyan Hu  | Michigan Technological University, USA.         |  [mailto:shiyan@mtu.edu shiyan@mtu.edu]              ||
+Prof. Bei Yu     | The Chinese University of Hong Kong, Hong Kong. |  [mailto:byu@cse.cuhk.edu.hk byu@cse.cuhk.edu.hk]    ||
+Dr. Huafeng Yu   | Boeing Research & Technology, USA.              |  [mailto:huafeng.yu@boeing.com huafeng.yu@boeing.com]
+~~~
+
+== PDF version Call For Paper
+Please click [https://www.computer.org/cms/Computer.org/transactions/cfps/cfp_tsuscsi_scs.pdf here].
+
+== Support By
+
+IEEE Technical Committee on CPS ([http://www.ieee-cps.org www.ieee-cps.org]).
+
+\n \n
+
