@@ -6,7 +6,8 @@
 {}{img_left}{img/TSUSC-CPS/bar_tsusc.jpg}{TSUSC-CPS}{1080}{}{}
 ~~~
 
-= IEEE Transactions on Sustainable Computing (TSUSC) Special Issue on *Sustainable Cyber-Physical Systems*
+=== IEEE Transactions on Sustainable Computing Special Issue on
+= Sustainable Cyber-Physical Systems
 
 Cyber-physical system (CPS) addresses the close interactions and feedback controls between cyber components and physical components, where cyber components refer to the sensing and communication systems, while the physical components comprise of a wide range of systems in practice. CPS is expected to play a major role in the development of next-generation smart energy systems and data centers. Innovative computational methodologies such as green and energy efficient cyber-physical system design have become critical to enable the sustainable development of such systems. These technologies can be used to tackle various sustainability challenges, such as the reduction of energy induced from the large scale data center computing infrastructures, the improvement of computational efficiency in smart energy systems and connected vehicle systems, and the exploration of the renewable energy resources to mitigate classical energy usages. This special issue will present the state-of-the-art research results on the topic of sustainable computing for CPS, and stimulate researchers to participate in the related interdisciplinary research.
 
