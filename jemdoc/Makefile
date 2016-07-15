@@ -11,4 +11,5 @@ all:
 	./jemdoc.py  -o ../ TBD-CPS.jemdoc
 	./jemdoc.py  -o ../ TSUSC-CPS.jemdoc
 	./jemdoc.py  -o ../ BOOK-CPSBD.jemdoc
+	chmod a+r ../img/committee/*.jpg
 
