@@ -3,7 +3,7 @@
 # jemdoc: title{Big Data for Cyber-Physical Systems}
 
 ~~~
-{}{img_left}{img/TBD-CPS/bar_tbdcps.jpg}{TBD-CPS}{1080}{}{}
+{}{img_left}{img/TBD-CPS/bar_tbdcps.jpg}{TBDATA-CPS}{1080}{}{}
 ~~~
 
 
@@ -42,7 +42,7 @@ For more information, please contact the Guest Editor Professor Shiyan Hu at [ma
 
 ~~~
 {}{table}{noborder}
-July     15, 2016:  |  Deadline for paper submissions     ||
+\<del\>July     15\<\/del\> \<font color=red\>August 12\<\/font\>, 2016:  |  Deadline for paper submissions     ||
 October  15, 2016:  |  First round review decisions       ||
 December 15, 2016:  |  Deadline for revised manuscripts   ||
 February 15, 2017:  |  Notification of final decisions    ||
