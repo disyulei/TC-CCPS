@@ -1,4 +1,5 @@
 *.html
+!IET-CPS/index.html
 .DS_Store
 *.aux
 *.blg
