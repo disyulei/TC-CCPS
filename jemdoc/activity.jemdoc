@@ -10,6 +10,14 @@
 = Activities
 
 ~~~
+{}{img_left}{img/activities/2016-ietcps-icon.jpg}{}{140}{}{doc/IET-CPS/IET-CPS-CFP.pdf}
+{{<img src="img/icon-new.gif" width=34>}}
+[http://digital-library.theiet.org/content/journals/iet-cps IET Cyber-Physical Systems: Theory & Applications (IET-CPS)]
+special issue on [./doc/IET-CPS/IET-CPS-CFP.pdf Safety-Critical Cyber Physical Systems]
+~~~
+\n
+
+~~~
 {}{img_left}{img/activities/2017-book-cpsbd.jpg}{}{140}{}{./BOOK-CPSBD.html}
 {{<img src="img/icon-new.gif" width=34>}}
 Springer Book
@@ -27,7 +35,6 @@ special issue on [./TSUSC-CPS.html Sustainable Cyber-Physical Systems]
 
 ~~~
 {}{img_left}{img/activities/2016-tbd-icon.jpg}{}{140}{}{http://www.ieee-cps.org/TBD-CPS.html}
-{{<img src="img/icon-new.gif" width=34>}}
 [http://www.computer.org/web/tbd IEEE Transactions on Big Data]
 special issue on [http://www.ieee-cps.org/TBD-CPS.html Big Data for Cyber-Physical Systems]
 ~~~
