@@ -618,10 +618,23 @@ USA \n
 ==== [http://www.eecs.berkeley.edu/~sseshia/ Homepage]
 ~~~
 
-
 \<\/td\>
 \<\/tr\>
 \<tr\>
+\<td\>
+# ==== Prof. Hongbin Sun
+~~~
+{}{img_left}{img/committee/committee_hbsun.jpg}{}{120}{}{}
+=== [http://www.tsinghua.edu.cn/publish/eeaen/1699/2010/20101216112657708553572/20101216112657708553572_.html Hongbin Sun]
+Department of Electrical Engineering \n
+Tsinghua University \n
+China \n
+==== [http://www.tsinghua.edu.cn/publish/eeaen/1699/2010/20101216112657708553572/20101216112657708553572_.html Homepage]
+~~~
+
+\<\/td\>
+#\<\/tr\>
+#\<tr\>
 \<td\>
 # ==== Prof. S. Tan
 ~~~
@@ -635,8 +648,8 @@ USA \n
 
 
 \<\/td\>
-#\<\/tr\>
-#\<tr\>
+\<\/tr\>
+\<tr\>
 \<td\>
 # ==== Prof. J. Teich
 ~~~
@@ -649,8 +662,8 @@ Germany \n
 
 
 \<\/td\>
-\<\/tr\>
-\<tr\>
+#\<\/tr\>
+#\<tr\>
 \<td\>
 # ==== J.H. Wang
 ~~~
@@ -664,24 +677,25 @@ USA \n
 
 
 \<\/td\>
-#\<\/tr\>
-#\<tr\>
+\<\/tr\>
+\<tr\>
 \<td\>
 # ==== J. Wang
 ~~~
 {}{img_left}{img/committee/committee_jwang.jpg}{}{120}{}{}
-=== [http://www.mae.cuhk.edu.hk/~jwang/ Jun Wang], *FIEEE*
+#=== [http://www.mae.cuhk.edu.hk/~jwang/ Jun Wang], *FIEEE*
+=== [http://www6.cityu.edu.hk/stfprofile/jwang.cs.htm Jun Wang], *FIEEE*
 *Editor-in-Chief for [http://www.ieeesmc.org/publications/transactions-on-cybernetics IEEE Transactions on Cybernetics]* \n
-Department of Mechanical and Automation Engineering \n
-Chinese University of Hong Kong \n
+Department of Computer Science \n
+City University of Hong Kong \n
 Hong Kong \n
-==== [http://www.mae.cuhk.edu.hk/~jwang/ Homepage]
+==== [http://www6.cityu.edu.hk/stfprofile/jwang.cs.htm Homepage]
 ~~~
 
 
 \<\/td\>
-\<\/tr\>
-\<tr\>
+#\<\/tr\>
+#\<tr\>
 \<td\>
 # ==== Prof. D. Work
 ~~~
@@ -695,8 +709,8 @@ USA \n
 
 
 \<\/td\>
-#\<\/tr\>
-#\<tr\>
+\<\/tr\>
+\<tr\>
 \<td\>
 # ==== Prof. L. Xie
 ~~~
@@ -709,19 +723,15 @@ USA \n
 ~~~
 
 
-\<\/td\>
-\<\/tr\>
-\<tr\>
-\<td\>
 # ==== J. Xie
-~~~
-{}{img_left}{img/committee/committee_jxie.jpg}{}{120}{}{}
-=== Jun Xie
-\n \n \n
+#~~~
+#{}{img_left}{img/committee/committee_jxie.jpg}{}{120}{}{}
+#=== Jun Xie
+#\n \n \n
 #Center for Information Technology Research \n
 #Chinese Academy of Governance \n
 #China \n
-~~~
+#~~~
 
 
 \<\/td\>
