@@ -1,0 +1,39 @@
+# jemdoc: menu{MENU}{committee.html}
+# jemdoc: addcss{css/jemdoc.css}
+# jemdoc: addcss{css/myExtra.css}
+# jemdoc: title{DACPS-2016}
+
+
+# ==== header
+#include{header.jemdoc}
+
+
+== Co-Chairs
+~~~
+{}{table}{noborder}
+[http://www.ece.mtu.edu/faculty/shiyan/ Shiyan Hu]    |  Michigan Technological University     ||
+[http://users.ece.cmu.edu/~xinli/ Xin Li]             |  Carnegie Mellon University            ||
+[http://www.ee.ucr.edu/~qzhu/ Qi Zhu]                 |  University of California at Riverside ||
+[http://www.eecs.ucf.edu/~jinyier/ Yier Jin]          |  University of Central Florida
+~~~
+
+\n
+== Steering Committee
+~~~
+{}{table}{noborder}
+[http://www.ece.mtu.edu/faculty/shiyan/ Shiyan Hu]    |  Michigan Technological University     ||
+[http://users.ece.cmu.edu/~xinli/ Xin Li]             |  Carnegie Mellon University            ||
+~~~
+
+
+\n
+== Publicity Chair 
+~~~
+{}{table}{noborder}
+[http://www.cse.cuhk.edu.hk/~byu/ Bei Yu]               | Chinese University of Hong Kong
+~~~
+
+
+
+\n \n
+

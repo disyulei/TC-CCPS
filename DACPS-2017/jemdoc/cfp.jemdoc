@@ -1,0 +1,35 @@
+# jemdoc: menu{MENU}{cfp.html}
+# jemdoc: addcss{css/jemdoc.css}
+# jemdoc: addcss{css/myExtra.css}
+# jemdoc: title{DACPS-2016}
+
+
+# ==== header
+#include{header.jemdoc}
+
+
+== Call For Papers 
+~~~
+- [./doc/CFP_v4.pdf PDF format] (49KB)
+~~~
+
+Note that there is no formal proceedings published for this workshop and the authors of accepted papers have the opportunities to present their papers in the regular oral presentations or posters.
+The selected papers, upon significant revisions, will be recommended to the *[http://tcps.acm.org/special_issue_smart.cfm Special Issue]* on Smart Homes, Buildings and Infrastructure of
+*[http://tcps.acm.org/ ACM Transactions on Cyber-Physical Systems (TCPS)]* for formal publications.
+
+== Important Dates 
+~~~
+{}{table}{noborder}
+*Full paper due:*                       |  March 01, 2016 (11:59pm EDT) ||
+*Notification of workshop acceptance:*  |  March 15, 2016 (11:59pm EDT) ||
+*TCPS submission deadline:*             |  April 01, 2016 (11:59pm EDT)
+~~~
+
+== Submission Details
+
+Paper submissions must be made through: [https://easychair.org/conferences/?conf=cpsda2016 easychair.org].
+Each submission is required to be in PDF format, and no more than *\<font color=red\>6 pages\<\/font\>* (including the abstract, figures, tables, and references) in a double column format.
+
+
+\n \n
+
