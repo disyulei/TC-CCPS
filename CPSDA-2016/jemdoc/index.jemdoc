@@ -1,14 +1,14 @@
 # jemdoc: menu{MENU}{index.html}
 # jemdoc: addcss{css/jemdoc.css}
 # jemdoc: addcss{css/myExtra.css}
-# jemdoc: title{DACPS-2016}
+# jemdoc: title{CPSDA-2016}
 
 
 # ==== header
 #include{header.jemdoc}
 
 
-=== The 2nd IEEE International Workshop on Design Automation for Cyber-Physical Systems (DACPS 2017)
+=== The 1st IEEE International Workshop on Design Automation for Cyber-Physical Systems (CPSDA 2016)
 
 == Scope 
 
@@ -42,7 +42,9 @@ The topics of interests to this workshop include (but are not limited to):
 
 \n
 Note that there is no formal proceedings published for this workshop and the authors of accepted papers have the opportunities to present their papers in the regular oral presentations or posters.
-The selected papers, upon significant revisions, will be recommended to the special issue on IET-CPS journal.
+The selected papers, upon significant revisions, will be recommended to the *[http://tcps.acm.org/special_issue_smart.cfm Special Issue]* on Smart Homes, Buildings and Infrastructure of
+*[http://tcps.acm.org/ ACM Transactions on Cyber-Physical Systems]* for formal publications.
+
 
 
 == Supported By
