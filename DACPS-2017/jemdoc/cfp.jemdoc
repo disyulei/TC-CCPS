@@ -1,7 +1,7 @@
 # jemdoc: menu{MENU}{cfp.html}
 # jemdoc: addcss{css/jemdoc.css}
 # jemdoc: addcss{css/myExtra.css}
-# jemdoc: title{CPSDA-2017}
+# jemdoc: title{DACPS-2017}
 
 
 # ==== header
@@ -29,7 +29,7 @@ TBD
 #
 #== Submission Details
 #
-#Paper submissions must be made through: [https://easychair.org/conferences/?conf=cpsda2016 easychair.org].
+#Paper submissions must be made through: [https://easychair.org/conferences/?conf=dacps2017 easychair.org].
 #Each submission is required to be in PDF format, and no more than *\<font color=red\>6 pages\<\/font\>* (including the abstract, figures, tables, and references) in a double column format.
 #
 

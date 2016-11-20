@@ -1,7 +1,7 @@
 # jemdoc: menu{MENU}{cfp.html}
 # jemdoc: addcss{css/jemdoc.css}
 # jemdoc: addcss{css/myExtra.css}
-# jemdoc: title{CPSDA-2016}
+# jemdoc: title{DACPS-2016}
 
 
 # ==== header
@@ -10,7 +10,7 @@
 
 == Call For Papers 
 ~~~
-- [./doc/CFP_v4.pdf PDF format] (49KB)
+- [./doc/CFP_v5.pdf PDF format] (49KB)
 ~~~
 
 Note that there is no formal proceedings published for this workshop and the authors of accepted papers have the opportunities to present their papers in the regular oral presentations or posters.
