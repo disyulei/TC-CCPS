@@ -15,7 +15,7 @@
 The IEEE Technical Committee on Cyber-Physical Systems (a.k.a. IEEE Technical Committee on Cybernetics for Cyber-Physical Systems) aims at promoting interdisciplinary research and education in the field of cyber-physical systems (CPS).
 CPS addresses the close interactions and feedback loop between the cyber components such as sensing systems and the physical components such as varying environment and energy systems.
 The exemplary CPS research areas include the theory and practice of data sensing and manipulation, the engineering foundation of the cyber-physical interactions, the design and verification of embedded computing systems,
-and the application of CPS methodologies in various areas such as smart energy systems, smart home/building/community/city, connected and autonomous vehicle system, medical prosthetics, wearable device, internet of things, etc
+and the application of CPS methodologies in various areas such as smart energy systems, smart home\/building\/community/\city, connected and autonomous vehicle system, medical prosthetics, wearable device, internet of things, etc
 
 The design, implementation and operation of CPS systems need the consideration of multiple aspects such as computational constraints, performance, energy, user experience, security, reliability, fault tolerance, flexibility and extensibility.
 To build optimal and reliable CPS, there is a great need for big data techniques such as large-scale analytical modeling, complex stochastic optimization, statistical machine learning, formal methods and verification, and real-time intelligent control.
@@ -26,27 +26,46 @@ It is also imperative to bridge CPS research to a variety of emerging domains in
 === Recent Activities
 ~~~
 {}{img_left}{img/activities/2016-ietcps-icon.jpg}{}{140}{}{doc/IET-CPS/IET-CPS-CFP.pdf}
-#{{<img src="img/icon-new.gif" width=34>}}
 [http://digital-library.theiet.org/content/journals/iet-cps IET Cyber-Physical Systems: Theory & Applications (IET-CPS)]
-special issue on [./doc/IET-CPS/IET-CPS-CFP.pdf Safety-Critical Cyber Physical Systems]
+special issue on [http://digital-library.theiet.org/files/IET_CFP_CPS_MEDICAL.pdf Cyber-Physical Systems for Medical and Life Sciences Applications]
+~~~
+\n
+
+~~~
+{}{img_left}{img/activities/2016-ietcps-icon.jpg}{}{140}{}{doc/IET-CPS/IET-CPS-CFP.pdf}
+[http://digital-library.theiet.org/content/journals/iet-cps IET Cyber-Physical Systems: Theory & Applications (IET-CPS)]
+special issue on [http://digital-library.theiet.org/files/IET_CFP_SMART_GRIDS.pdf Cyber-Physical Systems in Smart Grids: Security and Operation]
+~~~
+\n
+
+~~~
+{}{img_left}{img/activities/2016-ietcps-icon.jpg}{}{140}{}{doc/IET-CPS/IET-CPS-CFP.pdf}
+[http://digital-library.theiet.org/content/journals/iet-cps IET Cyber-Physical Systems: Theory & Applications (IET-CPS)]
+special issue on [http://digital-library.theiet.org/files/IET_CFP_CPS_EV_HEV.pdf Cyber-Physical Aspects of EVs and HEVs]
+~~~
+\n
+
+~~~
+{}{img_left}{img/activities/2016-ietcps-icon.jpg}{}{140}{}{doc/IET-CPS/IET-CPS-CFP.pdf}
+[http://digital-library.theiet.org/content/journals/iet-cps IET Cyber-Physical Systems: Theory & Applications (IET-CPS)]
+special issue on [http://digital-library.theiet.org/files/IET_CFP_CPS_BIG_DATA.pdf Recent Advances in Big Data Analytics and Cyber-physical Systems Security]
+~~~
+\n
+
+~~~
+{}{img_left}{img/activities/2016-ietcps-icon.jpg}{}{140}{}{doc/IET-CPS/IET-CPS-CFP.pdf}
+[http://digital-library.theiet.org/content/journals/iet-cps IET Cyber-Physical Systems: Theory & Applications (IET-CPS)]
+special issue on [http://digital-library.theiet.org/files/IET-CPS_SI-Safety-CFP.pdf Safety-Critical Cyber Physical Systems]
 ~~~
 \n
 
 ~~~
 {}{img_left}{img/activities/2017-book-cpsbd.jpg}{}{140}{}{./BOOK-CPSBD.html}
-#{{<img src="img/icon-new.gif" width=34>}}
 Springer Book
 ``[./BOOK-CPSBD.html Leveraging Big Data Techniques for Cyber-Physical Systems]''
 ~~~
 \n
 
-~~~
-{}{img_left}{img/activities/2016-tsusc-icon.jpg}{}{140}{}{./TSUSC-CPS.html}
-#{{<img src="img/icon-new.gif" width=34>}}
-[http://www.computer.org/web/tsusc IEEE Transactions on Sustainable Computing (TSUSC)]
-special issue on [./TSUSC-CPS.html Sustainable Cyber-Physical Systems]
-~~~
-\n
 
 [./activity.html More archival activities]
 \n \n
