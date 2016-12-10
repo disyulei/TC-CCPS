@@ -1,7 +1,7 @@
 all:
-	./jemdoc_new.py  -o ../ index.jemdoc
-	./jemdoc_new.py  -o ../ cfp.jemdoc
-	./jemdoc_new.py  -o ../ committee.jemdoc
-	./jemdoc_new.py  -o ../ program.jemdoc
-	./jemdoc_new.py  -o ../ archive.jemdoc
+	./jemdoc  -o ../ index.jemdoc
+	./jemdoc  -o ../ cfp.jemdoc
+	./jemdoc  -o ../ committee.jemdoc
+	./jemdoc  -o ../ program.jemdoc
+	./jemdoc  -o ../ archive.jemdoc
 
