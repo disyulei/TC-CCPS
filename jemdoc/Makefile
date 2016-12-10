@@ -1,15 +1,15 @@
 all:
-	./jemdoc.py  -o ../ index.jemdoc
-	./jemdoc.py  -o ../ officer.jemdoc
-	./jemdoc.py  -o ../ member.jemdoc
-	./jemdoc.py  -o ../ subcom.jemdoc
-	./jemdoc.py  -o ../ activity.jemdoc
-	./jemdoc.py  -o ../ letter.jemdoc
-	./jemdoc.py  -o ../ journal.jemdoc
-	./jemdoc.py  -o ../ shiyanhu.jemdoc
+	./jemdoc  -o ../ index.jemdoc
+	./jemdoc  -o ../ officer.jemdoc
+	./jemdoc  -o ../ member.jemdoc
+	./jemdoc  -o ../ subcom.jemdoc
+	./jemdoc  -o ../ activity.jemdoc
+	./jemdoc  -o ../ letter.jemdoc
+	./jemdoc  -o ../ journal.jemdoc
+	./jemdoc  -o ../ shiyanhu.jemdoc
 	# special sessions
-	./jemdoc.py  -o ../ TBD-CPS.jemdoc
-	./jemdoc.py  -o ../ TSUSC-CPS.jemdoc
-	./jemdoc.py  -o ../ BOOK-CPSBD.jemdoc
+	./jemdoc  -o ../ TBD-CPS.jemdoc
+	./jemdoc  -o ../ TSUSC-CPS.jemdoc
+	./jemdoc  -o ../ BOOK-CPSBD.jemdoc
 	chmod a+r ../img/committee/*.jpg
 
