@@ -47,6 +47,20 @@ Australia \n
 \<table id=noborder\>
 \<tr\>
 \<td\>
+# ==== Prof. Jamal Deen
+~~~
+{}{img_left}{img/committee/committee_jdeen.jpg}{}{120}{}{}
+=== [http://www.ece.mcmaster.ca/faculty/deen/ M. Jamal Deen], *FIEEE*
+*President of Academy of Sciences, Royal Society of Canada* \n
+#Electrical and Computer Engineering \n
+McMaster University \n
+Canada \n
+==== [http://www.ece.mcmaster.ca/faculty/deen/ Homepage]
+~~~
+
+
+\<\/td\>
+\<td\>
 # ==== Prof. P.R.Kumar
 ~~~
 {}{img_left}{img/committee/committee_pkumar.jpg}{}{120}{}{}
@@ -60,6 +74,8 @@ USA \n
 
 
 \<\/td\>
+\<\/tr\>
+\<tr\>
 \<td\>
 # ==== Prof. Y. Pan
 ~~~
@@ -70,10 +86,7 @@ USA \n
 #China \n
 ~~~
 
-
 \<\/td\>
-\<\/tr\>
-\<tr\>
 \<td\>
 # ==== Prof. V. Piuri
 ~~~
@@ -85,7 +98,10 @@ Italy \n
 ==== [https://homes.di.unimi.it/piuri/ Homepage]
 ~~~
 
+
 \<\/td\>
+\<\/tr\>
+\<tr\>
 \<td\>
 # ==== Prof. Y. Ye
 ~~~
@@ -97,6 +113,7 @@ Stanford University \n
 USA \n
 ==== [http://web.stanford.edu/~yyye/ Homepage]
 ~~~
+
 
 \<\/td\>
 \<\/tr\>
