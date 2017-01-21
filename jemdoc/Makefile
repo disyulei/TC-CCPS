@@ -6,7 +6,8 @@ all:
 	./jemdoc  -o ../ activity.jemdoc
 	./jemdoc  -o ../ letter.jemdoc
 	./jemdoc  -o ../ journal.jemdoc
-	./jemdoc  -o ../ shiyanhu.jemdoc
+	./jemdoc  -o ../ award.jemdoc
+	#./jemdoc  -o ../ shiyanhu.jemdoc
 	# special sessions
 	./jemdoc  -o ../ TBD-CPS.jemdoc
 	./jemdoc  -o ../ TSUSC-CPS.jemdoc
