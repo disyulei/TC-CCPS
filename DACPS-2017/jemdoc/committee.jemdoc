@@ -7,7 +7,20 @@
 # ==== header
 #include{header.jemdoc}
 
-TBD
+
+== Organizing Committee
+~~~
+{}{table}{noborder}
+Xin Li (Chair)        | Duke University, USA ||
+Mohammad Al Faruque   | University of California, Irvine, USA ||
+Shiyan Hu             | Michigan Technological University, USA ||
+Yier Jin              | University of Central Florida, USA ||
+Rajiv Ranjan          | Newcastle University, UK ||
+Bei Yu                | The Chinese University of Hong Kong, Hong Kong ||
+Huafeng Yu            | Boeing Research & Technology, USA ||
+Qi Zhu                | University of California, Riverside, USA
+~~~
+
 
 #== Co-Chairs
 #~~~

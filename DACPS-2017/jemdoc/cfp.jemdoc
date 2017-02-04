@@ -7,31 +7,30 @@
 # ==== header
 #include{header.jemdoc}
 
-== Call For Papers 
-TBD
+== Call For Participation
 
+~~~
+- [./doc/CFP_rev03.pdf PDF format] (25KB)
+~~~
 
-#~~~
-#- [./doc/CFP_v4.pdf PDF format] (49KB)
-#~~~
-#
-#Note that there is no formal proceedings published for this workshop and the authors of accepted papers have the opportunities to present their papers in the regular oral presentations or posters.
-#The selected papers, upon significant revisions, will be recommended to the *[http://tcps.acm.org/special_issue_smart.cfm Special Issue]* on Smart Homes, Buildings and Infrastructure of
-#*[http://tcps.acm.org/ ACM Transactions on Cyber-Physical Systems (TCPS)]* for formal publications.
-#
-#== Important Dates 
-#~~~
-#{}{table}{noborder}
-#*Full paper due:*                       |  March 01, 2016 (11:59pm EDT) ||
-#*Notification of workshop acceptance:*  |  March 15, 2016 (11:59pm EDT) ||
-#*TCPS submission deadline:*             |  April 01, 2016 (11:59pm EDT)
-#~~~
-#
-#== Submission Details
-#
-#Paper submissions must be made through: [https://easychair.org/conferences/?conf=dacps2017 easychair.org].
-#Each submission is required to be in PDF format, and no more than *\<font color=red\>6 pages\<\/font\>* (including the abstract, figures, tables, and references) in a double column format.
-#
+The workshop welcomes both oral and poster presentations.
+The intended speaker for oral presentation and the intended poster presenter should each submit a one-page abstract.
+An oral presentation is expected to be 15 minutes and there will be a dedicated poster session for all poster presentations.
+The workshop will NOT publish official proceedings for abstracts or posters.
+High-quality abstracts or posters will be invited to submit full-length papers to a special issue in [http://digital-library.theiet.org/content/journals/iet-cps IET Cyber-Physical Systems: Theory & Applications].
+
+== Submission Details
+
+Please email the one-page abstract to Dr. Xin Li ([mailto:xinli.ece@duke.edu xinli.ece@duke.edu]).
+Your abstract needs to include the following information: (1) a title, (2) author names and affiliations, (3) your preferred choice for oral or poster presentation,
+and (4) a brief description of technical contributions.
+
+== Important Dates 
+~~~
+{}{table}{noborder}
+*Submission of Abstract:*       |  February 15, 2017 ||
+*Notification of Acceptance:*   |  March 01, 2017    ||
+~~~
 
 \n \n
 
