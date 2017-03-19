@@ -8,7 +8,7 @@
 ~~~
 
 
-=== \<font color=red\>Call For Book Chapters\<\/font\> ([./doc/BOOK_CPSBD/CFP_v2.pdf pdf] version)
+=== \<font color=red\>Call For Book Chapters\<\/font\> ([./doc/BOOK_CPSBD/CFP_v3.pdf pdf] version)
 
 Cyber-physical system (CPS) addresses the close interactions and feedback controls between cyber components and physical components, where cyber components refer to the sensing and communication systems, while the physical components comprise of a wide range of systems in practice. Due to the fast increase in system complexities, the operations of CPS involve sensing, processing and storage of massive amount of data. This nature of big data also imposes fundamental challenges on the management and control of the operations of CPS, which involve sensing, processing and storage of massive amount of data. In addition, there is a need to overcome some hardware and software design challenges of CPS in multiple aspects such as performance, energy efficiency, security, privacy, reliability, sustainability, fault tolerance, scalability and flexibility.
 
@@ -37,11 +37,11 @@ Topics of Interests (but not limited to):
 ~~~
 {}{table}{noborder}
 #July 1st 2016:     |  Intention to submit a book chapter ||
-October \<del\>1st\<\/del\> \<font color=red\>31th\<\/font\> 2016:  |  Chapter submission  ||
-January 1st 2017:  |  Review comments ||
-Match 1st 2017:    |  Submission of the revised chapter ||
-April 1st 2017:    |  Final acceptance notification ||
-May 1st 2017:      |  Final chapter due
+\<del\>October 1st\<\/del\> \<font color=red\>May 15th\<\/font\> 2017:       |  Chapter submission  ||
+\<del\>January 1st\<\/del\> \<font color=red\>July 15th\<\/font\> 2017:      |  Review comments ||
+\<del\>Match 1st  \<\/del\> \<font color=red\>October 15th\<\/font\> 2017:   |  Submission of the revised chapter ||
+\<del\>April 1st  \<\/del\> \<font color=red\>November 15th\<\/font\> 2017:  |  Final acceptance notification ||
+\<del\>May 1st    \<\/del\> \<font color=red\>December 15th\<\/font\> 2017:  |  Final chapter due
 ~~~
 
 === Manuscript Preparation
@@ -50,7 +50,7 @@ All chapters (and chapter proposal) must be submitted electronically via EasyCha
 The submissions must be in pdf format.
 For further information, please contact the editors on: [mailto:shiyan@mtu.edu shiyan@mtu.edu].
 
-More details please see [./doc/BOOK_CPSBD/CFP_v2.pdf this] file.
+More details please see [./doc/BOOK_CPSBD/CFP_v3.pdf this] file.
 
 
 === Editors
