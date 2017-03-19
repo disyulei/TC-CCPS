@@ -246,15 +246,12 @@ def standardconf():
   </div></div>
   
   [footerstart]
-  <div id="footer">
-  <div id="footer-text">
   
   [footerend]
   </div>
   </div>
   
   [lastupdated]
-  Page generated |, by <a href="https://github.com/wsshin/jemdoc_mathjax" target="blank">jemdoc+MathJax</a>.
 
   [sourcelink]
   (<a href="|">source</a>)
@@ -1554,7 +1551,7 @@ def procfile(f):
       else:
         ts = '%Y-%m-%d'
       s = time.strftime(ts, time.localtime(time.time()))
-      hb(f.outf, f.conf['lastupdated'], s)
+      #hb(f.outf, f.conf['lastupdated'], s)
     if showsourcelink:
       hb(f.outf, f.conf['sourcelink'], f.inname)
     out(f.outf, f.conf['footerend'])
