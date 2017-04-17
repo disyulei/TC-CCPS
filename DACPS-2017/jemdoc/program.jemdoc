@@ -12,22 +12,28 @@
 ~~~
 {}{table}{noborder}
 8:30-8:45 ~~~~~~~~  | Opening remarks ||
+                    | ||
 8:45-9:30           | *User Experience over Smart Mobile Systems* ||
                     | [http://www.csie.ntu.edu.tw/~ktw/ Tei-Wei Kuo] ||
 9:30-10:15          | *Ever widening Design Verification Gap in Automotive CPS* ||
                     | [https://www.cse.iitb.ac.in/~ramesh/ Ramesh S] ||
-10:15-10:30         | \<font color=\"\#808080\"\>Break\<\/font\> ||
+                    | ||
+10:15-10:30         | Break ||
+                    | ||
 10:30-11:15         | *Data Predictive Control: Bridging Machine Learning and Control Synthesis for Volatile Energy Systems* ||
                     | [http://www.seas.upenn.edu/~rahulm/index.html Rahul Mangharam] ||
 11:15-12:00         | *Cross-Domain Security Analysis of Cyber-Physical Systems* ||
                     | http://aicps.eng.uci.edu/ Mohammad Al Faruque] ||
-12:00-1:00          | \<font color=\"\#808080\"\>Lunch\<\/font\> ||
+                    | ||
+12:00-1:00          | Lunch ||
+                    | ||
 1:00-1:45           | *Not all Soft Errors are Created Equal: Targeted Fault Injection Approaches for CPS Hardware and Firmware* ||
                     | [http://www.professoren.tum.de/en/schlichtmann-ulf/ Ulf Schlichtmann] ||
 1:45-2:30           | *IoT Security and Privacy: From a Cross-Layer Perspective* ||
                     | [http://www.eecs.ucf.edu/~jinyier/index.html Yier Jin] ||
 2:30-3:15           | *Autonomous Control for Precision Agriculture Irrigation* ||
                     | [http://cesg.tamu.edu/faculty/jiang-hu/ Jiang Hu] ||
+                    | ||
 3:15-4:30           | *Post Section*
 ~~~
 
