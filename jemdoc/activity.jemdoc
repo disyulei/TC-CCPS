@@ -10,9 +10,16 @@
 = Activities {{<br><font size="4" color="black" style="font-weight:normal;">The complete list of technically sponsored activities are listed as follows:</font>}}
 
 ~~~
-{}{img_left}{img/activities/2017-pieee-icon.jpg}{}{130}{}{https://www.ieee.org/publications_standards/publications/proceedings/proceedings_of_the_ieee.html}
+{}{img_left}{img/activities/2016-cpsda-icon.jpg}{}{140}{}{http://www.ieee-cps.org/DACPS-2017/}
 {{<img src="img/icon-new.gif" width=34>}}
-[https://www.ieee.org/publications_standards/publications/proceedings/proceedings_of_the_ieee.html Proceedings of the IEEE] Special Issue on Design Automation for Cyber-Physical Systems
+[https://dac.com/ DAC-2017] Workshop on [http://www.ieee-cps.org/DACPS-2017/ Design Automation for Cyber-Physical Systems (DACPS-2017)]
+~~~
+\n
+
+~~~
+{}{img_left}{img/activities/2017-pieee-icon.jpg}{}{130}{}{http://proceedingsoftheieee.ieee.org/}
+{{<img src="img/icon-new.gif" width=34>}}
+[http://proceedingsoftheieee.ieee.org/ Proceedings of the IEEE] Special Issue on Design Automation for Cyber-Physical Systems
 
 *Guest Editors*: [https://www2.eecs.berkeley.edu/Faculty/Homepages/sangiovanni-vicentelli.html Alberto L. Sangiovanni-Vincentelli], [http://www.ece.mtu.edu/faculty/shiyan/ Shiyan Hu], [http://ece.duke.edu/faculty/xin-li Xin Li], [http://www.ee.ucr.edu/~qzhu/ Qi Zhu]
 ~~~
@@ -21,7 +28,6 @@
 \n
 ~~~
 {}{img_left}{img/activities/2017-book-cpsbd.jpg}{}{140}{}{./BOOK-CPSBD.html}
-{{<img src="img/icon-new.gif" width=34>}}
 Springer Book
 ``[./BOOK-CPSBD.html Leveraging Big Data Techniques for Cyber-Physical Systems]''
 
@@ -32,7 +38,6 @@ Submission deadline: *May 15th, 2017*.
 \n
 ~~~
 {}{img_left}{img/activities/2016-ietcps-icon.jpg}{}{140}{}{doc/IET-CPS/IET-CPS-CFP.pdf}
-{{<img src="img/icon-new.gif" width=34>}}
 [http://digital-library.theiet.org/content/journals/iet-cps IET Cyber-Physical Systems: Theory & Applications (IET-CPS)]
 special issue on [http://digital-library.theiet.org/files/IET_CFP_CPS_MEDICAL.pdf Cyber-Physical Systems for Medical and Life Sciences Applications]
 ~~~
@@ -42,7 +47,6 @@ special issue on [http://digital-library.theiet.org/files/IET_CFP_CPS_MEDICAL.pd
 \n
 ~~~
 {}{img_left}{img/activities/2016-ietcps-icon.jpg}{}{140}{}{doc/IET-CPS/IET-CPS-CFP.pdf}
-{{<img src="img/icon-new.gif" width=34>}}
 [http://digital-library.theiet.org/content/journals/iet-cps IET Cyber-Physical Systems: Theory & Applications (IET-CPS)]
 special issue on [http://digital-library.theiet.org/files/IET_CFP_SMART_GRIDS.pdf Cyber-Physical Systems in Smart Grids: Security and Operation]
 ~~~
@@ -51,7 +55,6 @@ special issue on [http://digital-library.theiet.org/files/IET_CFP_SMART_GRIDS.pd
 \n
 ~~~
 {}{img_left}{img/activities/2016-ietcps-icon.jpg}{}{140}{}{doc/IET-CPS/IET-CPS-CFP.pdf}
-{{<img src="img/icon-new.gif" width=34>}}
 [http://digital-library.theiet.org/content/journals/iet-cps IET Cyber-Physical Systems: Theory & Applications (IET-CPS)]
 special issue on [http://digital-library.theiet.org/files/IET_CFP_CPS_EV_HEV.pdf Cyber-Physical Aspects of EVs and HEVs]
 ~~~
@@ -60,7 +63,6 @@ special issue on [http://digital-library.theiet.org/files/IET_CFP_CPS_EV_HEV.pdf
 \n
 ~~~
 {}{img_left}{img/activities/2016-ietcps-icon.jpg}{}{140}{}{doc/IET-CPS/IET-CPS-CFP.pdf}
-{{<img src="img/icon-new.gif" width=34>}}
 [http://digital-library.theiet.org/content/journals/iet-cps IET Cyber-Physical Systems: Theory & Applications (IET-CPS)]
 special issue on [http://digital-library.theiet.org/files/IET_CFP_CPS_BIG_DATA.pdf Recent Advances in Big Data Analytics and Cyber-physical Systems Security]
 ~~~
@@ -69,7 +71,6 @@ special issue on [http://digital-library.theiet.org/files/IET_CFP_CPS_BIG_DATA.p
 \n
 ~~~
 {}{img_left}{img/activities/2016-ietcps-icon.jpg}{}{140}{}{doc/IET-CPS/IET-CPS-CFP.pdf}
-{{<img src="img/icon-new.gif" width=34>}}
 [http://digital-library.theiet.org/content/journals/iet-cps IET Cyber-Physical Systems: Theory & Applications (IET-CPS)]
 special issue on [http://digital-library.theiet.org/files/IET-CPS_SI-Safety-CFP.pdf Safety-Critical Cyber Physical Systems]
 ~~~
