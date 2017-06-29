@@ -7,11 +7,123 @@
 # ==== header
 #include{header.jemdoc}
 
-\n
+= TC Chairs
+#{{{
+\<table id=noborder\>
+\<tr\>
+\<td\>
+# ==== Prof. S. Hu
+~~~
+{}{img_left}{img/committee/committee_syhu.jpg}{}{120}{}{http://www.ece.mtu.edu/faculty/shiyan/}
 
-=== TC Chairs
-- [http://www.ece.mtu.edu/faculty/shiyan/ Shiyan Hu]
-- Albert Y. Zomaya
+=== [http://www.ece.mtu.edu/faculty/shiyan/ Shiyan Hu]
+Department of Electrical and Computer Engineering \n
+Michigan Tech \n
+USA \n
+==== [http://www.ece.mtu.edu/faculty/shiyan/ Homepage]
+~~~
+
+\<\/td\>
+\<td\>
+# ==== Prof. A.Y. Zomaya
+~~~
+{}{img_left}{img/committee/committee_azomaya.jpg}{}{120}{}{http://sydney.edu.au/engineering/it/~zomaya/}
+
+=== [http://sydney.edu.au/engineering/it/~zomaya/ Albert Y. Zomaya], *FIEEE*
+*Former Editor-in-Chief of [http://www.computer.org/web/tc IEEE Transactions on Computers]*  \n
+School of Information Technologies \n
+University of Sydney \n
+#Sydney, NSW 2006 \n
+Australia \n
+==== [http://sydney.edu.au/engineering/it/~zomaya/ Homepage]
+~~~
+
+\<\/td\>
+\<\/tr\>
+\<\/table\>
+#}}}
+
+= Advisory Board
+#{{{
+\<table id=noborder\>
+\<tr\>
+\<td\>
+# ==== Prof. Jamal Deen
+~~~
+{}{img_left}{img/committee/committee_jdeen.jpg}{}{120}{}{http://www.ece.mcmaster.ca/faculty/deen/}
+=== [http://www.ece.mcmaster.ca/faculty/deen/ M. Jamal Deen], *FIEEE*
+*President of Academy of Sciences, Royal Society of Canada* \n
+#Electrical and Computer Engineering \n
+McMaster University \n
+Canada \n
+==== [http://www.ece.mcmaster.ca/faculty/deen/ Homepage]
+~~~
+
+
+\<\/td\>
+\<td\>
+# ==== Prof. P.R.Kumar
+~~~
+{}{img_left}{img/committee/committee_pkumar.jpg}{}{120}{}{http://cesg.tamu.edu/faculty/p-r-kumar/}
+=== [http://cesg.tamu.edu/faculty/p-r-kumar/ P. R. Kumar], *FIEEE*
+*U.S. National Academy of Engineering (NAE) \n member* \n
+#Department of Computer Engineering \n
+Texas A&M University \n
+USA \n
+==== [http://cesg.tamu.edu/faculty/p-r-kumar/ Homepage]
+~~~
+
+
+\<\/td\>
+\<\/tr\>
+\<tr\>
+\<td\>
+# ==== Prof. Y. Pan
+~~~
+{}{img_left}{img/committee/committee_ypan.jpg}{}{120}{}{}
+=== Yunhe Pan
+*Vice President of Chinese Academy of Engineering* \n
+#Zhejiang University \n
+#China \n
+~~~
+
+\<\/td\>
+\<td\>
+# ==== Prof. V. Piuri
+~~~
+{}{img_left}{img/committee/committee_vpiuri.jpg}{}{120}{}{https://homes.di.unimi.it/piuri/}
+=== [https://homes.di.unimi.it/piuri/ Vincenzo Piuri], *FIEEE*
+*IEEE Vice President for Technical Activities* \n
+Universita' degli Studi di Milano \n
+Italy \n
+==== [https://homes.di.unimi.it/piuri/ Homepage]
+~~~
+
+
+\<\/td\>
+\<\/tr\>
+\<tr\>
+\<td\>
+# ==== Prof. Y. Ye
+~~~
+{}{img_left}{img/committee/committee_yye.jpg}{}{120}{}{http://web.stanford.edu/~yyye/}
+=== [http://web.stanford.edu/~yyye/ Yinyu Ye], *INFORMS Fellow*
+*John von Neumann Theory Prize Winner*\n
+K. T. Li Chair Professor of Engineering \n
+Stanford University \n
+USA \n
+==== [http://web.stanford.edu/~yyye/ Homepage]
+~~~
+
+
+\<\/td\>
+\<\/tr\>
+\<\/table\>
+#}}}
+
+#=== TC Chairs
+#- [http://www.ece.mtu.edu/faculty/shiyan/ Shiyan Hu]
+#- Albert Y. Zomaya
 
 #=== Operations Committee (alphabetically)
 === Executive Committee (alphabetically)

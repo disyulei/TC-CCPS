@@ -1,6 +1,7 @@
 all:
 	./jemdoc  -o ../ index.jemdoc
 	./jemdoc  -o ../ officer.jemdoc
+	./jemdoc  -o ../ register.jemdoc
 	./jemdoc  -o ../ member.jemdoc
 	./jemdoc  -o ../ subcom.jemdoc
 	./jemdoc  -o ../ activity.jemdoc
